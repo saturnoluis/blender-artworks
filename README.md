@@ -6,4 +6,14 @@ The repo does not include the final rendered images since they are too heavy and
 
 I like to create series of three related pictures which I call "Collections", below are the previews of the collections, from newest (top) to oldest (bottom).
 
-# Previews
+# Collections
+
+## elementary
+My little homage to [elementary OS](https://elementary.io/) 6
+
+## The table
+
+## Soda 95
+A tribute to windows 95 and it's legacy
+
+## Trongle
